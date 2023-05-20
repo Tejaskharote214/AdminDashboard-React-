@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Project Link- https://ramadmindashboard.netlify.app/
+In project You can click on Home, Users and Product which is on Sidebar.
+You can Edit and Delete Users and Products.
+This is simple project based on React for practice Purpose.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
